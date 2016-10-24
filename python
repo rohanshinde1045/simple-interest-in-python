@@ -1,0 +1,6 @@
+x=eval (input("enter principal amount"))
+y=eval(input("enter number of year"))
+z=eval(input("enter rate of interest"))
+p=(x*y*z)/100
+print("simple intrest",p)
+input ("press any key")
